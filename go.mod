@@ -81,7 +81,7 @@ require (
 	k8s.io/code-generator v0.28.0
 	k8s.io/gengo v0.0.0-20220902162205-c0856e24416d
 	k8s.io/kube-openapi v0.0.0-20230717233707-2695361300d9
-	sigs.k8s.io/controller-runtime v0.15.1
+	sigs.k8s.io/controller-runtime v0.16.0
 	sigs.k8s.io/controller-tools v0.13.0
 	sigs.k8s.io/yaml v1.3.0
 )
@@ -128,6 +128,7 @@ require (
 	github.com/smarty/assertions v1.15.0 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/stringprep v1.0.4 // indirect
+	golang.org/x/exp v0.0.0-20220827204233-334a2380cb91 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230803162519-f966b187b2e5 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230807174057-1744710a1577 // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
@@ -281,7 +282,7 @@ require (
 	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.12.0 // indirect
-	gomodules.xyz/jsonpatch/v2 v2.3.0 // indirect
+	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230803162519-f966b187b2e5 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
