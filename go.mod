@@ -61,7 +61,7 @@ require (
 	github.com/slack-go/slack v0.12.3
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/cobra v1.8.0
-	github.com/spf13/viper v1.18.1
+	github.com/spf13/viper v1.18.2
 	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/testify v1.8.4
 	github.com/stripe/stripe-go v70.15.0+incompatible
