@@ -81,7 +81,7 @@ require (
 	k8s.io/code-generator v0.29.0
 	k8s.io/gengo v0.0.0-20230829151522-9cce18d56c01
 	k8s.io/kube-openapi v0.0.0-20231010175941-2dd684a91f00
-	sigs.k8s.io/controller-runtime v0.17.1
+	sigs.k8s.io/controller-runtime v0.17.2
 	sigs.k8s.io/controller-tools v0.14.0
 	sigs.k8s.io/yaml v1.4.0
 )
